@@ -18,8 +18,6 @@ public class App
               return;
           }
 
-          // Enable debugging, if no slf4j logger was found
-
           // The token is the first argument of the program
           String token = args[0];
 
